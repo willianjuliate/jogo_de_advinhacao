@@ -1,4 +1,4 @@
-# Jogo de advinhação e uma implementação de um clássico problema de programação.
+# O jogo de advinhação e uma implementação de um clássico problema de programação.
 
 Eis como ele funciona: o programa vai gerar um número 
 inteiro aleatório entre 1 e 100. Então, ele vai pedir ao jogador que digite um 
